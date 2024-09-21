@@ -1,7 +1,7 @@
 # themes_manager.py
 # Authors:
 #   - Maxime "M4x1m3" FRIESS
-#   - Quentin Guidee
+#   - Clara Guidee
 
 import sys
 import argparse
